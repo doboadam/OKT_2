@@ -1,2 +1,2 @@
 # OKT_2
-# próba program
+# próba projekt
