@@ -1,4 +1,8 @@
 c.txt file
+<<<<<<< HEAD
 
 
 Lokális változtatás
+=======
+c módosítása Githubon
+>>>>>>> 6fc5b548165c098f9eeb1634e967c647169a941a
